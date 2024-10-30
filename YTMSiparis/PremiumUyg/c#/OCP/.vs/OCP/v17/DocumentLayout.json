@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\standartkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\standartkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\premiumkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\premiumkullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama2\\c#\\ocp\\ocp\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B91FC6-2D79-47C7-B6C3-D08342C798AD}|OCP\\OCP.csproj|solutionrelative:ocp\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Siparis.cs",
+              "RelativeDocumentMoniker": "OCP\\Siparis.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Siparis.cs",
+              "RelativeToolTip": "OCP\\Siparis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Urun.cs",
+              "RelativeDocumentMoniker": "OCP\\Urun.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Urun.cs",
+              "RelativeToolTip": "OCP\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PremiumKullanici.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\PremiumKullanici.cs",
+              "RelativeDocumentMoniker": "OCP\\PremiumKullanici.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\PremiumKullanici.cs",
+              "RelativeToolTip": "OCP\\PremiumKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandartKullanici.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\StandartKullanici.cs",
+              "RelativeDocumentMoniker": "OCP\\StandartKullanici.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\StandartKullanici.cs",
+              "RelativeToolTip": "OCP\\StandartKullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Kullanici.cs",
+              "RelativeDocumentMoniker": "OCP\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Kullanici.cs",
+              "RelativeToolTip": "OCP\\Kullanici.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Program.cs",
+              "RelativeDocumentMoniker": "OCP\\Program.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama2\\c#\\OCP\\OCP\\Program.cs",
+              "RelativeToolTip": "OCP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:03:24.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama1\\c#\\srp\\srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|solutionrelative:srp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama1\\c#\\srp\\srp\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|solutionrelative:srp\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|c:\\users\\yunus\\onedrive\\desktop\\odev2\\uygulama1\\c#\\srp\\srp\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8B6427-FBC3-4CC0-9E12-D5CFB80353B3}|SRP\\SRP.csproj|solutionrelative:srp\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Adres.cs",
+              "RelativeDocumentMoniker": "SRP\\Adres.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Adres.cs",
+              "RelativeToolTip": "SRP\\Adres.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:36:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Kullanici.cs",
+              "RelativeDocumentMoniker": "SRP\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Kullanici.cs",
+              "RelativeToolTip": "SRP\\Kullanici.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:36:13.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Program.cs",
+              "RelativeDocumentMoniker": "SRP\\Program.cs",
+              "ToolTip": "C:\\Users\\yunus\\OneDrive\\Desktop\\odev2\\uygulama1\\c#\\SRP\\SRP\\Program.cs",
+              "RelativeToolTip": "SRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:35:40.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\bin\Debug\net8.0\OCP.exe
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\bin\Debug\net8.0\OCP.deps.json
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\bin\Debug\net8.0\OCP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\bin\Debug\net8.0\OCP.pdb
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\refint\OCP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.pdb
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama2\c#\OCP\OCP\obj\Debug\net8.0\ref\OCP.dll

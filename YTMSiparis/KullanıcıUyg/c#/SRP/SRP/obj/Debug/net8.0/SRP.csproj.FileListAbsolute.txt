@@ -1,0 +1,14 @@
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\yunus\OneDrive\Desktop\odev2\uygulama1\c#\SRP\SRP\obj\Debug\net8.0\ref\SRP.dll
